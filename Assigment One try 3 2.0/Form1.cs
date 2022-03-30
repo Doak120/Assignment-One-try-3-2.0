@@ -51,7 +51,7 @@ namespace Assigment_One_try_3_2._0
             }
             catch
             {
-                MessageBox.Show("Catch- Not a valid int")
+                MessageBox.Show("Catch- Not a valid int");
             }
         }
     }
